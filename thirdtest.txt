@@ -1,1 +1,3 @@
 ASAP i want to study
+
+I fix the file for the 5th. 원격 repository에서 수정 후에 local에서 pull 
